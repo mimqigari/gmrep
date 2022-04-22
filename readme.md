@@ -8,7 +8,7 @@ Powerfull Admin Panel and Impressive Design will you think big!
 
 Get Started to make great community with Buzzy. TODAY!
 
-## Official Documentation
+
 
 Documentation for the Buzzy can be found on the [Buzzy website](http://buzzy.akbilisim.com/admin/docs).
 
